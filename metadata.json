@@ -1,0 +1,8 @@
+
+{
+  "name": "Captain's Quest AI Roadmap",
+  "description": "An AI-powered roadmap generator that helps you navigate your goals like a legendary pirate captain.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
