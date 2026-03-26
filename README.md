@@ -1,7 +1,7 @@
 # 🚀 FSD Project
 
-A modern frontend web application built using **React + TypeScript + Vite**.
-This project demonstrates a structured, scalable UI with multiple pages and reusable components.
+A modern frontend web application built using **React, TypeScript, JavaScript, HTML, and CSS**.
+This project showcases a clean UI structure with multiple pages, reusable components, and fast performance using Vite.
 
 ---
 
@@ -9,8 +9,10 @@ This project demonstrates a structured, scalable UI with multiple pages and reus
 
 * ⚛️ React
 * 📘 TypeScript
+* 🟨 JavaScript
+* 🌐 HTML5
+* 🎨 CSS3
 * ⚡ Vite
-* 🎨 HTML & CSS
 
 ---
 
@@ -41,13 +43,14 @@ FSD Project/
 
 ## ✨ Features
 
-* 🔐 User Login Page
-* 🏠 Home Page UI
-* 📊 Dashboard Interface
+* 🔐 User Login Interface
+* 🏠 Home Page
+* 📊 Dashboard UI
 * 👤 Profile Page
 * 📘 Guide Page
-* 🔄 Reusable Components (Navbar, Layout)
-* ⚡ Fast performance with Vite
+* ♻️ Reusable Components (Navbar, Layout)
+* 🎨 Styled using CSS
+* ⚡ Fast development with Vite
 
 ---
 
@@ -81,13 +84,13 @@ npm run dev
 
 ## 🌐 Live Demo
 
-👉 (Add your deployed link here after deploying on Vercel/Netlify)
+👉 (Add your deployed link here)
 
 ---
 
 ## 📸 Screenshots
 
-(Add screenshots of your project UI here)
+(Add your UI screenshots here)
 
 ---
 
